@@ -1,0 +1,18 @@
+p {
+    background-color: #FF9999;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.coolerclass {
+    font-size: 24px;
+}
+
+#id-1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+#id-2 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: 700;
+}
