@@ -1,0 +1,14 @@
+.classtrue,
+.classfalse {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.classtrue {
+    background-color: black;
+    color: white;
+}
+
+.classfalse {
+    background-color: yellow;
+}
